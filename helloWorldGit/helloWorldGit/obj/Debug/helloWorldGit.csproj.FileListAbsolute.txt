@@ -1,7 +1,0 @@
-D:\3eme_info_gestion\.NET\helloWorldGit\helloWorldGit\bin\Debug\helloWorldGit.exe.config
-D:\3eme_info_gestion\.NET\helloWorldGit\helloWorldGit\bin\Debug\helloWorldGit.exe
-D:\3eme_info_gestion\.NET\helloWorldGit\helloWorldGit\bin\Debug\helloWorldGit.pdb
-D:\3eme_info_gestion\.NET\helloWorldGit\helloWorldGit\obj\Debug\helloWorldGit.csprojAssemblyReference.cache
-D:\3eme_info_gestion\.NET\helloWorldGit\helloWorldGit\obj\Debug\helloWorldGit.csproj.CoreCompileInputs.cache
-D:\3eme_info_gestion\.NET\helloWorldGit\helloWorldGit\obj\Debug\helloWorldGit.exe
-D:\3eme_info_gestion\.NET\helloWorldGit\helloWorldGit\obj\Debug\helloWorldGit.pdb
